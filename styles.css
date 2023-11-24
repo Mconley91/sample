@@ -1,8 +1,23 @@
 *{color: white;
 background-color: black;
-font-family: ;}
+font-family: 'Times New Roman', Times, serif;
+border: 0px solid white;}
 #subjects {
+    text-align: center;
     list-style-position: inside;
-    margin-left: 40%;
-    padding: 10px;
+    padding: 5px;
+}
+div {
+    border-width: 5px;
+    margin: 1px 10% 1px;
+}
+ul{
+    display: inline-block;
+    text-align: left;
+    
+}
+h3{
+    margin:0px 30% 0px;
+    padding: 5px;
+    border-bottom-width: 5px;
 }
