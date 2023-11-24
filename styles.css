@@ -1,0 +1,8 @@
+*{color: white;
+background-color: black;
+font-family: ;}
+#subjects {
+    list-style-position: inside;
+    margin-left: 40%;
+    padding: 10px;
+}
