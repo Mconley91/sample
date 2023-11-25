@@ -9,7 +9,7 @@ border: 0px solid white;}
 }
 div {
     border-width: 5px;
-    margin: 1px 10% 1px;
+    margin: 1px 30% -1px;
 }
 ul{
     display: inline-block;
@@ -17,7 +17,8 @@ ul{
     
 }
 h3{
-    margin:0px 30% 0px;
+    margin:0px 40% 0px;
     padding: 5px;
-    border-bottom-width: 5px;
+    border-bottom-width: 2px;
+    border-style: dashed;
 }
